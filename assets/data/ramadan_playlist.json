@@ -1,0 +1,709 @@
+{
+  "source": "Ramadan_Playlist_Videos_Updated.xlsx",
+  "year": "2026",
+  "hijriYear": "1447",
+  "days": [
+    {
+      "day": 1,
+      "label": "الليلة الأولى",
+      "items": [
+        {
+          "id": "qiyam_1_1",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة الأولى رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779971044/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_wv5nkh.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_1_1",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة الأولى رمضان 1447هـ / 2026م | عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779966175/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_pu2z7z.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "label": "الليلة الثانية",
+      "items": [
+        {
+          "id": "qiyam_2_2",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة الثانية رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779971317/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_idoi3w.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_2_2",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة الثانية رمضان 1447هـ / 2026م | عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779966730/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_gcxxmc.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "label": "الليلة الثالثة",
+      "items": [
+        {
+          "id": "qiyam_3_3",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة الثالثة رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779971994/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_fkrzqs.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_3_3",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة الثالثة رمضان 1447هـ / 2026م | عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779966305/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_ysj4tl.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "label": "الليلة الرابعة",
+      "items": [
+        {
+          "id": "qiyam_4_4",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة الرابعة رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779971363/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_u1pdfb.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_4_4",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة الرابعة رمضان 1447هـ / 2026م | عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779967074/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_dznhmq.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "label": "الليلة الخامسة",
+      "items": [
+        {
+          "id": "qiyam_5_5",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة الخامسة رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779971734/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_c93wdl.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_5_5",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة الخامسة رمضان 1447هـ / 2026م | عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779966881/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_eaecpb.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "label": "الليلة السادسة",
+      "items": [
+        {
+          "id": "qiyam_6_6",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة السادسة رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779971497/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_mycn5j.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_6_6",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة السادسة رمضان 1447هـ / 2026م | عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779967618/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_u7qbbu.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "label": "الليلة السابعة",
+      "items": [
+        {
+          "id": "qiyam_7_7",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة السابعة رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779972006/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_gbxkhd.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_7_7",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة السابعة رمضان 1447هـ / 2026م | عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779967411/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_dks7hr.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "label": "الليلة الثامنة",
+      "items": [
+        {
+          "id": "qiyam_8_8",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة الثامنة رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779972665/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80___2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_zFocROcI5Ng_bcizhv.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_8_8",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة الثامنة رمضان 1447هـ / 2026م | عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779967470/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_j0mov1.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "label": "الليلة التاسعة",
+      "items": [
+        {
+          "id": "qiyam_9_9",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة التاسعة رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779972166/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AA%D8%A7%D8%B3%D8%B9%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_trne7i.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_9_9",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة التاسعة رمضان 1447هـ / 2026م | عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779967433/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AA%D8%A7%D8%B3%D8%B9%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_gbtxuq.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "label": "الليلة العاشرة",
+      "items": [
+        {
+          "id": "qiyam_10_10",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة العاشرة رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779972677/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D8%B4%D8%B1%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_ra6h2d.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_10_10",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة العاشرة رمضان 1447هـ / 2026م | عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779967564/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D8%B4%D8%B1%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_lkqyih.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "label": "الليلة الحادية عشرة",
+      "items": [
+        {
+          "id": "qiyam_11_11",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة الحادية عشرة رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779973043/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AD%D8%A7%D8%AF%D9%8A%D8%A9_%D8%B9%D8%B4%D8%B1%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_gbpz9d.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_11_11",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة الحادية عشرة رمضان 1447هـ / 2026م | عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779966835/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AD%D8%A7%D8%AF%D9%8A%D8%A9_%D8%B9%D8%B4%D8%B1%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_o0albu.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "label": "الليلة الثانية عشرة",
+      "items": [
+        {
+          "id": "qiyam_12_12",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة الثانية عشرة رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779973016/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_%D8%B9%D8%B4%D8%B1%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_auacc3.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_12_12",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة الثانية عشرة رمضان 1447هـ / 2026م #عبدالرحمن_الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779967532/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_%D8%B9%D8%B4%D8%B1%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_xhbj1g.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "label": "الليلة الثالثة عشرة",
+      "items": [
+        {
+          "id": "qiyam_13_13",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة الثالثة عشرة رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779973034/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9_%D8%B9%D8%B4%D8%B1%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_yytde8.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_13_13",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة الثالثة عشرة رمضان 1447هـ | 2026م #عبدالرحمن_الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779966456/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9_%D8%B9%D8%B4%D8%B1%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_lxclhf.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "label": "الليلة الرابعة عشرة",
+      "items": [
+        {
+          "id": "qiyam_14_14",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة الرابعة عشرة رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779973343/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%D8%B9%D8%B4%D8%B1%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_putgrk.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_14_14",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "دعاء الليلة الرابعة عشرة رمضان 1447هـ | 2026م #عبدالرحمن_الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779967561/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%D8%B9%D8%B4%D8%B1%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_mbapp7.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "label": "الليلة الخامسة عشرة",
+      "items": [
+        {
+          "id": "qiyam_15_15",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة الخامسة عشرة رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779973407/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9_%D8%B9%D8%B4%D8%B1%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80___2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_nvOe3XnnRv8_w5brt8.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_15_15",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة الخامسة عشرة رمضان 1447هـ | 2026م #عبدالرحمن_الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779967143/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9_%D8%B9%D8%B4%D8%B1%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_ijwy9x.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "label": "الليلة السادسة عشرة",
+      "items": [
+        {
+          "id": "qiyam_16_16",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة السادسة عشرة رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779973984/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3%D8%A9_%D8%B9%D8%B4%D8%B1%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80___2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_Lt8ss8R2-s8_qhakoi.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_16_16",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة السادسة عشرة رمضان 1447هـ | 2026م #عبدالرحمن_الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779967417/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3%D8%A9_%D8%B9%D8%B4%D8%B1%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_qgnmjb.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "label": "الليلة السابعة عشرة",
+      "items": [
+        {
+          "id": "qiyam_17_17",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة السابعة عشرة رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779973916/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9%D8%A9_%D8%B9%D8%B4%D8%B1%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80___2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_O3h8St1T3T4_cl4jor.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_17_17",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة السابعة عشرة رمضان 1447هـ | 2026م #عبدالرحمن_الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779967567/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9%D8%A9_%D8%B9%D8%B4%D8%B1%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_wuzwph.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "label": "الليلة الثامنة عشرة",
+      "items": [
+        {
+          "id": "qiyam_18_18",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة الثامنة عشرة رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779973818/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9_%D8%B9%D8%B4%D8%B1%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_admtr3.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_18_18",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة الثامنة عشرة رمضان 1447هـ | 2026م #عبدالرحمن_الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779967513/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9_%D8%B9%D8%B4%D8%B1%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_zjpapr.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "label": "الليلة التاسعة عشرة",
+      "items": [
+        {
+          "id": "qiyam_19_19",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة التاسعة عشرة رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779973952/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AA%D8%A7%D8%B3%D8%B9%D8%A9_%D8%B9%D8%B4%D8%B1%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_brxai5.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_19_19",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة التاسعة عشرة رمضان 1447هـ | 2026م #عبدالرحمن_الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779966329/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AA%D8%A7%D8%B3%D8%B9%D8%A9_%D8%B9%D8%B4%D8%B1%D8%A9_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_gywprs.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "label": "الليلة العشرون",
+      "items": [
+        {
+          "id": "qiyam_20_20",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة العشرون رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779974457/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_oos1br.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_20_20",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة العشرون رمضان 1447هـ | 2026م #عبدالرحمن_الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779967647/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_afvffv.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "label": "الليلة الحادية والعشرون",
+      "items": [
+        {
+          "id": "qiyam_21_21",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة الحادية والعشرون رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779974369/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AD%D8%A7%D8%AF%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_s1c6ce.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "tahajjud_21_1",
+          "type": "tahajjud",
+          "typeLabel": "التهجد",
+          "title": "تهجد الليلة الحادية والعشرون رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779974434/%D8%AA%D9%87%D8%AC%D8%AF_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AD%D8%A7%D8%AF%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_bslmcs.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_21_21",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة الحادية والعشرون رمضان 1447هـ | 2026م #عبدالرحمن_الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779966888/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AD%D8%A7%D8%AF%D9%8A_%D9%88_%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_zzsung.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "label": "الليلة الثانية والعشرون",
+      "items": [
+        {
+          "id": "qiyam_22_22",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة الثانية والعشرون رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779974376/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_cthn2g.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "tahajjud_22_2",
+          "type": "tahajjud",
+          "typeLabel": "التهجد",
+          "title": "تهجد الليلة الثانية والعشرون رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779974972/%D8%AA%D9%87%D8%AC%D8%AF_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80___2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_oiV5xaXNNx8_bb1qmf.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_22_22",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة الثانية والعشرون رمضان 1447هـ | 2026م #عبدالرحمن_الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779966908/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_%D9%88_%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_gwwmn9.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "label": "الليلة الثالثة والعشرون",
+      "items": [
+        {
+          "id": "tahajjud_23_3",
+          "type": "tahajjud",
+          "typeLabel": "التهجد",
+          "title": "تهجد الليلة الثالثة والعشرون رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779974704/%D8%AA%D9%87%D8%AC%D8%AF_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9_%D9%88%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_llazqo.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_23_23",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة الثالثة والعشرون رمضان 1447هـ | 2026م #عبدالرحمن_الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779966419/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9_%D9%88_%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_xl0nkb.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "label": "الليلة الرابعة والعشرون",
+      "items": [
+        {
+          "id": "qiyam_24_23",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة الرابعة والعشرون رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779974635/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%D9%88%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_akpuxh.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "tahajjud_24_4",
+          "type": "tahajjud",
+          "typeLabel": "التهجد",
+          "title": "تهجد الليلة الرابعة والعشرون رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779974972/%D8%AA%D9%87%D8%AC%D8%AF_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80___2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_oiV5xaXNNx8_bb1qmf.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_24_24",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة الرابعة والعشرون رمضان 1447هـ | 2026م #عبدالرحمن_الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779967356/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%D9%88_%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_bmztcc.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "label": "الليلة الخامسة والعشرون",
+      "items": [
+        {
+          "id": "qiyam_25_24",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة الخامسة والعشرون رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779975137/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9_%D9%88%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_p0oixl.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "tahajjud_25_5",
+          "type": "tahajjud",
+          "typeLabel": "التهجد",
+          "title": "تهجد الليلة الخامسة والعشرون رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779975576/%D8%AA%D9%87%D8%AC%D8%AF_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9_%D9%88%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80___2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_b_11vbgNoz8_al0yvg.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_25_25",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة الخامسة والعشرون رمضان 1447هـ | 2026م #عبدالرحمن_الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779967627/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9_%D9%88_%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_ugfkzb.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "label": "الليلة السادسة والعشرون",
+      "items": [
+        {
+          "id": "qiyam_26_25",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة السادسة والعشرون رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779975525/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3%D8%A9_%D9%88%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_ltqnnn.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "tahajjud_26_6",
+          "type": "tahajjud",
+          "typeLabel": "التهجد",
+          "title": "تهجد الليلة السادسة والعشرون رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779975981/%D8%AA%D9%87%D8%AC%D8%AF_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3%D8%A9_%D9%88%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_twezhs.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_26_26",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة السادسة والعشرون رمضان 1447هـ | 2026م #عبدالرحمن_الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779967627/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3%D8%A9_%D9%88_%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_na0tno.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "label": "الليلة السابعة والعشرون",
+      "items": [
+        {
+          "id": "qiyam_27_26",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة السابعة والعشرون رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779975915/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9%D8%A9_%D9%88%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_ynvmcx.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "tahajjud_27_7",
+          "type": "tahajjud",
+          "typeLabel": "التهجد",
+          "title": "تهجد الليلة السابعة والعشرون رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779975921/%D8%AA%D9%87%D8%AC%D8%AF_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9%D8%A9_%D9%88%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_es1xej.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_27_27",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "دعاء ليلة 27 رمضان 2026م / 1447هـ للشيخ عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779967677/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D8%B9%D8%A9_%D9%88_%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_jfz195.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "label": "الليلة الثامنة والعشرون",
+      "items": [
+        {
+          "id": "qiyam_28_27",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة الثامنة والعشرون رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779976160/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9_%D9%88%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_ienecy.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "tahajjud_28_8",
+          "type": "tahajjud",
+          "typeLabel": "التهجد",
+          "title": "تهجد الليلة الثامنة والعشرون رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779976911/%D8%AA%D9%87%D8%AC%D8%AF_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9_%D9%88%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_icebdx.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_28_28",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "🌙✨ دعاء الليلة الثامنة والعشرون رمضان 1447هـ | 2026م #عبدالرحمن_الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779966670/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%85%D9%86%D8%A9_%D9%88_%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_btinrd.mp3",
+          "transcript": ""
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "label": "الليلة التاسعة والعشرون",
+      "items": [
+        {
+          "id": "qiyam_29_28",
+          "type": "qiyam",
+          "typeLabel": "صلاة القيام",
+          "title": "الليلة التاسعة والعشرون رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779976374/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AA%D8%A7%D8%B3%D8%B9%D8%A9_%D9%88%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_sta4kh.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "tahajjud_29_9",
+          "type": "tahajjud",
+          "typeLabel": "التهجد",
+          "title": "تهجد الليلة التاسعة والعشرون رمضان 1447هـ / 2026م 🌙✨ - عبد الرحمن الزواوي",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779976401/%D8%AA%D9%87%D8%AC%D8%AF_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AA%D8%A7%D8%B3%D8%B9%D8%A9_%D9%88%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_1447%D9%87%D9%80_2026%D9%85_-_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D9%88%D9%8A_okut5k.mp3",
+          "transcript": ""
+        },
+        {
+          "id": "dua_29_29",
+          "type": "dua",
+          "typeLabel": "الدعاء",
+          "title": "دعاء الختام ليلة 29 رمضان 2026م / 1447هـ للشيخ عبد الرحمن الزواوي من مسجد المصطفى",
+          "url": "https://res.cloudinary.com/dmjtwwiue/video/upload/v1779967671/%D8%AF%D8%B9%D8%A7%D8%A1_%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9_%D8%A7%D9%84%D8%AA%D8%A7%D8%B3%D8%B9%D8%A9_%D9%88_%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%88%D9%86_%D8%B1%D9%85%D8%B6%D8%A7%D9%86_2026%D9%85_u5juyx.mp3",
+          "transcript": ""
+        }
+      ]
+    }
+  ]
+}

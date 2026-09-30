@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="widget_prayer">الصلاة القادمة</string>
+  <string name="widget_ayah">آية اليوم</string>
+  <string name="widget_hadith">حديث اليوم</string>
+  <string name="widget_saved">مراجعة المحفوظات</string>
+  <string name="widget_continue">أكمل قراءتك</string>
+  <string name="widget_adhkar">ورد الأذكار اليومي</string>
+</resources>

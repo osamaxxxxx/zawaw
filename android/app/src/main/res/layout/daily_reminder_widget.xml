@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layoutDirection="rtl"
+    android:textDirection="rtl"
+    android:padding="3dp">
+
+    <!-- The illustration is deliberately below the content layer, keeping Arabic text readable. -->
+    <FrameLayout
+        android:id="@+id/widget_card"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/widget_card_background"
+        android:clipToOutline="true">
+
+        <ImageView
+            android:id="@+id/widget_scene"
+            android:layout_width="124dp"
+            android:layout_height="124dp"
+            android:layout_gravity="bottom|start"
+            android:alpha="0.45"
+            android:contentDescription=""
+            android:importantForAccessibility="no"
+            android:src="@drawable/widget_mosque_scene" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="18dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical|start"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/widget_label"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="start"
+                    android:textColor="#E4C568"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/widget_icon"
+                    android:layout_width="42dp"
+                    android:layout_height="42dp"
+                    android:layout_marginStart="10dp"
+                    android:background="@drawable/widget_icon_background"
+                    android:gravity="center"
+                    android:text="۞"
+                    android:textColor="#F1D68A"
+                    android:textSize="24sp" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/widget_content"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical|start"
+                android:textDirection="rtl"
+                android:maxLines="3"
+                android:textColor="#FFFFFF"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/widget_meaning"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="start"
+                android:textDirection="rtl"
+                android:maxLines="3"
+                android:textColor="#E6D2A0"
+                android:textSize="13sp" />
+        </LinearLayout>
+    </FrameLayout>
+</FrameLayout>

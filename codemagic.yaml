@@ -1,0 +1,42 @@
+workflows:
+  ios-workflow:
+    name: iOS Build
+    environment:
+      flutter: stable
+      xcode: latest
+      cocoapods: default
+    cache:
+      cache_paths:
+        - ~/.pub-cache
+    scripts:
+      - name: Install Flutter dependencies
+        script: |
+          flutter clean
+          flutter pub get
+      - name: Clean iOS Pods
+        script: |
+          rm -rf ios/Pods
+          rm -f ios/Podfile.lock
+      - name: Install CocoaPods dependencies
+        script: |
+          cd ios
+          pod deintegrate || true
+          pod install --repo-update
+          cd ..
+      - name: Ensure output directory
+        script: mkdir -p build/ios/ipa
+      - name: Build IPA (development)
+        script: flutter build ipa --release --export-method development
+      - name: Copy IPA to artifacts folder
+        script: |
+          find . -name "*.ipa" -exec cp {} build/ios/ipa/ \;
+    artifacts:
+      - build/ios/ipa/*.ipa
+      - build/ios/archive/*.xcarchive
+    publishing:
+      email:
+        recipients:
+          - shoosh2003@gmail.com
+        notify:
+          success: true
+          failure: true
